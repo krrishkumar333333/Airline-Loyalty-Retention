@@ -28,5 +28,6 @@ This pipeline is explicitly packaged for seamless local execution.
    pip install streamlit pandas numpy scikit-learn xgboost
 ```
 3. Launch the application dashboard:
-   ```python -m streamlit run loyalty_dashboard.py
+   ```bash
+   python -m streamlit run loyalty_dashboard.py
    ```
