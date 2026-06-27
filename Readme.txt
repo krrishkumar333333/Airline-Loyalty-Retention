@@ -1,6 +1,6 @@
 # ✈️ Unlocking Behavioral Intelligence in Airline Loyalty Programs
 
-![Certificate](Driving_Airline_retention.png)
+![Certificate](https://github.com/krrishkumar333333/Airline-Loyalty-Retention/blob/main/Driving_Airline_retention.png?raw=true)
 
 **Author:** Krishna Vijay Kunwar
 **Program:** Consulting & Analytics Club, IIT Guwahati — Summer Projects '26
